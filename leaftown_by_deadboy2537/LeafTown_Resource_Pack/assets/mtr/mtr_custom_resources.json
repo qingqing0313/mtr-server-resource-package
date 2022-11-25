@@ -1,0 +1,241 @@
+{
+	"custom_trains": {
+		"weavers_gzmtr_a1": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A1",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a1.png",
+			"speed_sound_count": 48,
+			"speed_sound_base_id": "gzmtr_a1",
+			"door_sound_base_id": "gzmtr_a1",
+            "door_animation_type": "BOUNCY_1",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a1.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a1.json"
+		},
+		"weavers_gzmtr_a1_refurbished": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A1 (翻新后)",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a1_refurbished.png",
+			"speed_sound_count": 46,
+			"speed_sound_base_id": "gzmtr_a1_refurbished",
+			"door_sound_base_id": "gzmtr_a1_refurbished",
+            "door_animation_type": "STANDARD_SLOW",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a1_refurbished.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a1_refurbished.json"
+		},
+		"weavers_gzmtr_a2": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A2",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a2.png",
+			"speed_sound_count": 44,
+			"speed_sound_base_id": "gzmtr_a2",
+			"door_sound_base_id": "gzmtr_a2",
+            "door_animation_type": "STANDARD_SLOW",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a2.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a2.json"
+		},
+		"weavers_gzmtr_a2_line_8": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A2 (8号线)",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a2.png",
+			"speed_sound_count": 44,
+			"speed_sound_base_id": "gzmtr_a2_line_8",
+			"door_sound_base_id": "gzmtr_a2_line_8",
+            "door_animation_type": "STANDARD_SLOW",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a2.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a2.json"
+		},
+		"weavers_gzmtr_a3": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A3",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a3.png",
+			"speed_sound_count": 44,
+			"speed_sound_base_id": "gzmtr_a3",
+			"door_sound_base_id": "gzmtr_a3",
+            "door_animation_type": "STANDARD_SLOW",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a3.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a3.json"
+		},
+		"weavers_gzmtr_a4": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A4",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a4.png",
+			"speed_sound_count": 38,
+			"speed_sound_base_id": "gzmtr_a4",
+			"door_sound_base_id": "gzmtr_a4",
+            "door_animation_type": "PLUG_FAST",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a4.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a4.json"
+		},
+		"weavers_gzmtr_a4_experiment": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A4 直角塞拉门",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a4.png",
+			"speed_sound_count": 38,
+			"speed_sound_base_id": "gzmtr_a4",
+			"door_sound_base_id": "gzmtr_a4_experiment",
+            "door_animation_type": "PLUG_SLOW",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a4.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a4.json"
+		},
+		"weavers_gzmtr_a5": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A5",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a5.png",
+			"speed_sound_count": 51,
+			"speed_sound_base_id": "gzmtr_a5",
+			"door_sound_base_id": "gzmtr_a5",
+            "door_animation_type": "PLUG_FAST",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a5.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a5.json"
+		},
+		"weavers_gzmtr_a6": {
+			"base_train_type": "base_24_2",
+			"name": "广州地铁 A6",
+			"color": "FFF708",
+			"texture_id": "mtr:gzmtr/gzmtr_a6.png",
+			"speed_sound_count": 51,
+			"speed_sound_base_id": "gzmtr_a6",
+			"door_sound_base_id": "gzmtr_a6",
+            "door_animation_type": "PLUG_FAST",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/gzmtr_a6.bbmodel",
+			"model_properties": "mtr:gzmtr/gzmtr_a6.json"
+		},
+		"weavers_b_train": {
+			"base_train_type": "base_19_3",
+			"name": "B型车模板",
+			"color": "FFF708",
+			"texture_id": "mtr:template/b_train.png",
+			"speed_sound_count": 51,
+			"speed_sound_base_id": "a_train",
+			"door_sound_base_id": "sp1900",
+			"has_gangway_connection": true,
+			"model": "mtr:template/b_train.bbmodel",
+			"model_properties": "mtr:template/b_train.json"
+		},
+		"weavers_lb_train": {
+			"base_train_type": "base_15_3",
+			"name": "LB型车模板",
+			"color": "FFF708",
+			"texture_id": "mtr:template/lb_train.png",
+			"speed_sound_count": 51,
+			"speed_sound_base_id": "a_train",
+			"door_sound_base_id": "sp1900",
+			"has_gangway_connection": true,
+			"model": "mtr:template/lb_train.bbmodel",
+			"model_properties": "mtr:template/lb_train.json"
+		}
+	},
+	"custom_signs": {
+		"weavers_sign_1": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": false,
+			"small": true
+		},
+		"weavers_sign_2": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": true,
+			"small": true
+		},
+		"weavers_sign_3": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": true,
+			"small": false
+		},
+		"weavers_sign_4": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": false,
+			"small": false
+		},
+		"weavers_sign_5": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": false,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"weavers_sign_6": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": true,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"weavers_sign_7": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": true,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": true,
+			"small": false
+		},
+		"weavers_sign_8": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": false,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": true,
+			"small": false
+		},
+		"weavers_sign_9": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": false,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"weavers_sign_10": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": true,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"weavers_sign_11": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": true,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": false,
+			"small": false
+		},
+		"weavers_sign_12": {
+			"texture_id": "mtr:weavers_sign/weavers.png",
+			"flip_texture": false,
+			"custom_text": "织巢鸟|Weavers",
+			"flip_custom_text": false,
+			"small": false
+		},
+		"gzmtr_sign_small": {
+			"texture_id": "mtr:gzmtr_sign/gzmtr.png",
+			"flip_texture": false,
+			"small": true,
+			"background_color": "E23535"
+		},
+		"gzmtr_sign": {
+			"texture_id": "mtr:gzmtr_sign/gzmtr.png",
+			"flip_texture": false,
+			"small": false,
+			"background_color": "E23535"
+		},
+		"empty_gzmtr_sign": {
+			"texture_id": "mtr:gzmtr_sign/empty_gzmtr.png",
+			"flip_texture": false,
+			"small": true,
+			"background_color": "E23535"
+		}
+	}
+}
