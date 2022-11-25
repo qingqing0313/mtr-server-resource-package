@@ -10,7 +10,9 @@
             "rider_offset":0.0,
             "texture_id":"mtr:my_custom_c_train/my_custom_c_train",
             "model":"mtr:my_custom_c_train/my_custom_c_train.bbmodel",
-            "model_properties":"mtr:my_custom_c_train/my_custom_c_train.json"
+            "model_properties":"mtr:my_custom_c_train/my_custom_c_train.json",
+            "speed_sound_base_id":"c_train",
+			"door_sound_base_id":"sp1900",
         }
     }
 },
@@ -26,14 +28,16 @@
             "rider_offset":0.0,
             "texture_id":"mtr:my_custom_class_345_k_train_id/my_custom_class_345_k_train_id",
             "model":"mtr:my_custom_class_345_k_train_id/my_custom_class_345_k_train_id.bbmodel",
-            "model_properties":"mtr:my_custom_class_345_k_train_id/my_custom_class_345_k_train_id.json"
+            "model_properties":"mtr:my_custom_class_345_k_train_id/my_custom_class_345_k_train_id.json",
+            "speed_sound_base_id":"k_train",
+			"door_sound_base_id":"a_train",
         }
     }
 },
 {
     "custom_trains":{
         "my_custom_k_train_id":{
-            "name":"K-Train（增强版）",
+            "name":"K-Train 增强版",
             "color":"F70AA3",
             "gangway_connection_id":"",
             "train_barrier_id":"",
@@ -44,7 +48,25 @@
             "model":"mtr:my_custom_k_train_id/my_custom_k_train_id.bbmodel",
             "model_properties":"mtr:my_custom_k_train_id/my_custom_k_train_id.json",
 			"speed_sound_base_id":"k_train",
-			"door_sound_base_id":"a_train"
+			"door_sound_base_id":"a_train",
+        }
+    }
+},
+{
+    "custom_trains":{
+        "my_custom_m_train":{
+            "name":"M-Train 增强版",
+            "color":"537BE2",
+            "gangway_connection_id":"",
+            "train_barrier_id":"",
+            "door_animation_type":"BOUNCY_2",
+            "render_door_overlay":false,
+            "rider_offset":0.0,
+            "texture_id":"mtr:my_custom_m_train/my_custom_m_train",
+            "model":"mtr:my_custom_m_train/my_custom_m_train.bbmodel",
+            "model_properties":"mtr:my_custom_m_train/my_custom_m_train.json",
+			"speed_sound_base_id":"m_train",
+			"door_sound_base_id":"m_train",
         }
     }
 },
