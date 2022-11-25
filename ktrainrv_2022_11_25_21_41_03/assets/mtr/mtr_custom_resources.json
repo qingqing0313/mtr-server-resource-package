@@ -1,0 +1,1 @@
+{"custom_trains":{"ktrainrv":{"name":"K-Train RV","color":"5F96D5","gangway_connection_id":"","train_barrier_id":"","door_animation_type":"STANDARD","render_door_overlay":false,"rider_offset":0.0,"texture_id":"mtr:ktrainrv/ktrainrv","model":"mtr:ktrainrv/ktrainrv.bbmodel","model_properties":"mtr:ktrainrv/ktrainrv.json"}}}

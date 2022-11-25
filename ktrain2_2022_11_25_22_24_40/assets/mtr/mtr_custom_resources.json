@@ -1,0 +1,1 @@
+{"custom_trains":{"ktrain2":{"name":"K-Train 2","color":"5F96D5","gangway_connection_id":"","train_barrier_id":"","door_animation_type":"STANDARD_SLOW","render_door_overlay":false,"rider_offset":0.0,"texture_id":"mtr:ktrain2/ktrain2","model":"mtr:ktrain2/ktrain2.bbmodel","model_properties":"mtr:ktrain2/ktrain2.json"}}}
