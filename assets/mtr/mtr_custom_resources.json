@@ -1,0 +1,122 @@
+{
+	"custom_trains": {
+		"line1a1": {
+			"base_train_type": "m_train",
+			"name": "1号线 A1型车（模型：DeadBoy2537）",
+			"color": "FF0000",
+			"texture_id": "mtr:gzmtr/line1a1.png",
+			"speed_sound_count": 48,
+			"speed_sound_base_id": "gzmtr_a1_refurbished",
+			"door_sound_base_id": "m_train",
+            "door_animation_type": "BOUNCY_1",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/line1a1.bbmodel",
+			"model_properties": "mtr:gzmtr/line1a1.json"
+		},
+		"line1a2": {
+			"base_train_type": "m_train",
+			"name": "1号线 A2型车（模型：DeadBoy2537）",
+			"color": "FF0000",
+			"texture_id": "mtr:gzmtr/line1a2.png",
+			"speed_sound_count": 46,
+			"speed_sound_base_id": "gzmtr_a1_refurbished",
+			"door_sound_base_id": "sp1900",
+            "door_animation_type": "STANDARD",
+			"has_gangway_connection": true,
+			"model": "mtr:gzmtr/line1a2.bbmodel",
+			"model_properties": "mtr:gzmtr/line1a2.json"
+		},
+		"line1a3": {
+			"name": "1号线 A3型车",
+			"color": "FF0000",
+			"base_train_type": "c_train",
+			"texture_id": "mtr:custom_directory/line1a3.png",
+			"speed_sound_base_id":"c_train",
+			"door_sound_base_id":"sp1900"
+		},
+		"line1a4": {
+			"name": "1号线 A4型车",
+			"color": "FF0000",
+			"base_train_type": "r_train",
+			"texture_id": "mtr:custom_directory/line1a4.png",
+			"speed_sound_base_id":"c1141a",
+			"door_sound_base_id":"sp1900",
+			"model": "mtr:line1_4/r_train_plus.bbmodel",
+			"model_properties": "mtr:line1_4/line1a4.json"
+		},
+		"line2a1":{
+            "name": "2号线 A1型车",
+			"color": "FF0000",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/line2a1.png",
+			"speed_sound_base_id":"k_train",
+			"door_sound_base_id":"a_train"
+        },
+		"line2a2":{
+            "name":"2号线 A2型车",
+            "color":"5F96D5",
+            "gangway_connection_id":"",
+            "train_barrier_id":"",
+            "door_animation_type":"STANDARD_SLOW",
+            "render_door_overlay":false,
+            "rider_offset":0.0,
+            "texture_id":"mtr:line2/line2a2.png",
+            "model":"mtr:line2/line2a2.bbmodel",
+            "model_properties":"mtr:line2/line2a2.json",
+            "speed_sound_base_id":"c1141a",
+			"door_sound_base_id":"sp1900"
+        },
+		"line3a1": {
+			"name": "3号线 A1型车",
+			"color": "FF0000",
+			"base_train_type": "c_train",
+			"texture_id": "mtr:custom_directory/line3a1.png",
+			"speed_sound_base_id":"c_train",
+			"door_sound_base_id":"sp1900"
+		},
+		"line4a1": {
+			"name": "4号线 A1型车",
+			"color": "FF0000",
+			"base_train_type": "r_train",
+			"texture_id": "mtr:custom_directory/line4a1.png",
+			"speed_sound_base_id":"c1141a",
+			"door_sound_base_id":"sp1900",
+			"model": "mtr:line1_4/r_train_plus.bbmodel",
+			"model_properties": "mtr:line1_4/line4a1.json"
+		}
+	},
+	"custom_signs": {
+		"xiaotan_railway_logo": {
+			"texture_id": "mtr:sign/xtr.png",
+			"flip_texture": false,
+			"custom_text": "小探地铁|Xiaotan Railway",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"dripstone_caves": {
+			"texture_id": "mtr:sign/dripstone_caves.png",
+			"flip_texture": false,
+			"custom_text": "溶洞|Dripstone Caves",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"lush_caves": {
+			"texture_id": "mtr:sign/lush_caves.png",
+			"flip_texture": false,
+			"custom_text": "繁茂洞穴|Lush Caves",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"deep_dark": {
+			"texture_id": "mtr:sign/deep_dark.png",
+			"flip_texture": false,
+			"custom_text": "深暗之域|Deep Dark",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		}
+	}
+}
